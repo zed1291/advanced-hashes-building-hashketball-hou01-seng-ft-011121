@@ -5,6 +5,7 @@ def game_hash
       :colors => ["Black", "White"],
 
       :players => [
+        :player_name => {
           :alan_anderson => {
             :player_name => "Alan Anderson",
             :number => 0,
@@ -60,6 +61,7 @@ def game_hash
             :blocks => 11,
             :slam_dunks => 1,
           }
+        }
       ]
     },
     :away => {
