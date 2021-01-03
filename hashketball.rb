@@ -14,8 +14,8 @@ def game_hash
             :assists => 12,
             :steals => 3,
             :blocks => 1,
-            :slam_dunks => 1 }
-          }
+            :slam_dunks => 1
+          },
            :reggie_evans => {
             :player_name => "Reggie Evans",
             :number => 30,
